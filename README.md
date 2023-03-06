@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GiorgiBG
-- 👀 I’m interested in programming and cyber security
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python and networking 
 - 📫 How to reach me Discord Bguja
