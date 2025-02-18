@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GiorgiBG
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Web development JavaScript
-- 💞️ I’m looking to collaborate on Python and networking 
+- 💞️ I’m looking to collaborate on React 
 - 📫 How to reach me Discord Bguja
 
 <!---
